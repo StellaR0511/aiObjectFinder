@@ -16,9 +16,10 @@ body{
     background-position: center;
 }
 canvas{
-    margin-top: 30px;
+    margin-top: 90px;
     box-shadow: 10px 10px 10px gray;
     border-radius: 10px;
+    background-color: white;
 }
 .subheading
 {
